@@ -1,0 +1,6 @@
+# https://tea.xyz/configjs
+---
+version: 1.0.0
+codeOwners:
+  - '0x03bBdB9EE2e6632Ef042a11186F515b1E1f1a5ce'
+quorum: 1
