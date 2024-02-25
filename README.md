@@ -1,2 +1,2 @@
-# mirasol-pytorch
-Tea (mirasol-pytorch)
+# configjs
+Tea configjs
